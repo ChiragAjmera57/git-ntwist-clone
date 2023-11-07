@@ -3,10 +3,8 @@
 ![GitHub Clone](https://github.com/ChiragAjmera57/git-ntwist-clone/assets/121008037/4b0aae93-b279-49cc-9923-3e6ba67670ab)
 
 
-This project is a clone of the GitHub homepage created using React and Tailwind CSS. It features a responsive design, smooth animations powered by React Framer Motion, and is deployed for your convenience.
+This project is a clone of the GitHub homepage created using React and Tailwind CSS. It features a responsive design, smooth animations powered by React Framer Motion.
 
-## Demo
-🔗 [GitHub Clone Demo](https://your-deployment-link-here.com)
 
 
 ## Features
