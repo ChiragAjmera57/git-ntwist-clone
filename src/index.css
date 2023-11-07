@@ -5,7 +5,7 @@
 * {
   box-sizing: border-box;
 }
-
+/* body relative and other absolute */
 body {
   position: relative;
   background-color: #0C1015;
@@ -81,12 +81,16 @@ html {
   width: 3px;
 }
 
+
+
 @media (max-width: 400px) {
   .line {
     height: 1080px;
   }
 }
 
+
+/* color for status indicators  */
 .pl-ent {
   color: #7ee787;
 }
@@ -124,6 +128,8 @@ html {
   color: #a371f7;
 }
 
+
+/* animation for drone on hero section */
 .hero-drone {
   animation: animate 20s linear infinite;
 }
